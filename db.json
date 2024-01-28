@@ -1,0 +1,136 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to frond-end-development with React JS",
+      "description": "In this 1-hour long project-based course, you will learn about React Basics & Theory, Initialization, React Router, Components, Hooks, State, and deployment with Netlify. You should know basic HTML & CSS before beginning this project. For development, your cloud desktop will come installed with Visual Studio Code.",
+      "author": "Kumail Pirzada",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 2,
+      "title": "Core Java",
+      "description": "Learn the basic syntax and functions of the Java programming language.Apply object-oriented programming techniques to building classes, creating objects, and understanding how solutions are packaged in Java.",
+      "author": "Evan Bergman",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 3,
+      "title": "React Native",
+      "description": "React Native is an open-source framework for building cross-platform applications (apps) using React and the platform’s native capabilities. In this course, you will move from the basics of React to a more advanced implementation using React Native",
+      "author": "Taught by Meta Staff",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 4,
+      "title": ".Net Full Stack Developer",
+      "description": "Build Fullstack webapp with .NET technologies. Master the intricacies of .NET core, React's frontend capabilities, and ASP.NET backend development to design and deploy dynamic, scalable web applications.",
+      "author": "Board Infinity",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 5,
+      "title": "Java Full Stack Developer",
+      "description": "Develop Dynamic Web Applications with Java. Master Java programming, Angular for responsive front-end web development, and Spring and Spring Boot for robust back-end systems, culminating in a comprehensive skillset to build, integrate, and deploy cloud-ready web applications.",
+      "author": "Board Infinity",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning",
+      "description": "#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng",
+      "author": "Andrew Ng",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Data Analytics",
+      "description": "Explain what Data Analytics is and the key steps in the Data Analytics process.Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst",
+      "author": "Rav Ahuja",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 8,
+      "title": "Developing Back-End-Apps with Node.Js and Express",
+      "description": "Create server-side applications using the Node.js JavaScript run time.Extend your Node.js applications with third-party packages and frameworks, including Express.",
+      "author": " Upkar Lidder",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 9,
+      "title": "Introduction to DevOps",
+      "description": "The essential characteristics of DevOps including building a culture of shared responsibility, transparency, and embracing failure.The importance of Continuous Integration and Continuous Delivery, Infrastructure as Code, Test Driven Development, Behavior Driven Development.",
+      "author": "John Rofrano",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 10,
+      "title": "AWS Fundamentals Specialization",
+      "description": "Learn in-demand skills from university and industry experts.Master a subject or tool with hands-on projects.Develop a deep understanding of key concepts",
+      "author": "Morgan Wilis",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 11,
+      "title": "Meta Back-End Developer",
+      "description": "Gain the technical skills required to become a qualified back-end developer.Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more",
+      "author": "Taught By Meta Staff",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 12,
+      "title": "AWS Cloud Solutins Architect Professional Certificate",
+      "description": "Make informed decisions about when and how to apply key AWS Services for compute, storage, database, networking, monitoring, and security.Design architectural solutions, whether designing for cost, performance, and/or operational excellence, to address common business challenges.",
+      "author": "Morgan Wilis",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 13,
+      "title": "Information Technology(IT) and Cloud Fundamentals Specialization",
+      "description": "Operating systems history, installation, configuration, and hardware connectors and peripheral identification and troubleshooting techniques.Software management, cloud computing characteristics, benefits and trends, web browser essentials, software development basics, and database basics.",
+      "author": "IBM Skills Network Team",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 14,
+      "title": "DevOps on AWS:Code,Build and Test",
+      "description": "Understand the DevOps philosophies and its lifecycle.Implement and manage continuous delivery systems and methodologies on AWS.How to use the right tools to measure code quality by identifying workflow steps",
+      "author": "Rafael Lopes ",
+      "enquiry": "ENQUIRY"
+    },
+    {
+      "id": 15,
+      "title": "Introduction to Android Mobile Application Development",
+      "description": "Define the Fundamental concepts of Android app development.Set up and explore the Android Studio interface, configurations and built-in tools.Use Kotlin Playground.Create a simple Android app",
+      "author": "Taught By Meta Staff",
+      "enquiry": "ENQUIRY"
+    }
+  ],
+  "users": [
+    {
+      "email": "shirinireddygone@gmail.com",
+      "password": "fgvhbnjm,",
+      "id": 6
+    },
+    {
+      "email": "siri@gmail.com",
+      "password": "Shirini@023109",
+      "id": 7
+    },
+    {
+      "email": "shirinireddygone@gmail.com",
+      "password": "asdfghju",
+      "id": 8
+    },
+    {
+      "email": "siri@gmail.com",
+      "password": "123456789",
+      "id": 9
+    },
+    {
+      "email": "shirinireddygone@gmail.com",
+      "password": "sdfghjkcxvbhnj",
+      "id": 10
+    }
+  ]
+}
