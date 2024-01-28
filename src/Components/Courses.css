@@ -1,0 +1,27 @@
+.course{
+    height:430px;
+    margin: 2%;
+    background-color: #fff; /* Background color of the box */
+    border: 1px solid black; /* Border color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+    width: 300px; /* Set the width of the box */
+    padding: 20px;
+    
+
+}
+.app
+{
+  
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 35px;
+    padding: 20px;
+}
+button
+{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
